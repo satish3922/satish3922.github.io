@@ -21,7 +21,7 @@ function easy_background(selector, sld_args) {
   //var sld_args={i:["img/555.jpg","img/44.jpg","img/33.jpg","img/22.jpg","img/11.jpg","img/1.jpg","img/2.jpg","img/3.jpg","img/4.jpg","img/5.jpg"],d:[3000,3000,3000,3000,3000] };
 
   //if delay is empty or forgotten then use this default value
-  var def_del = 3000;
+  var def_del = 8000;
 
   var p = document.createElement("div");
   p.innerHTML = " ";
